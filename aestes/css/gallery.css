@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    border: 2px solid black;
+    /* margin: 10px; */
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.container h2 {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 70px;
+    /* identical to box height, or 194% */
+    text-align: center;
+    color: #878787;
+}
+
+.container h1 {
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 70px;
+    /* identical to box height, or 117% */
+    text-align: center;
+    color: #000000;
+}
+
+/* .first {
+    height: 662px;
+}
+
+.first1,
+.first2 {
+    height: 331px;
+} */
