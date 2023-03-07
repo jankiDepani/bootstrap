@@ -1,0 +1,79 @@
+.box1 h6 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 70px;
+    /* identical to box height, or 292% */
+    /* text-align: center; */
+    color: #000000;
+}
+
+.box1 h2 {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 51px;
+    /* or 142% */
+    color: #000000;
+}
+
+.box1 p {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 33px;
+    /* or 183% */
+    color: #343434;
+}
+
+.box1 button , .box2 button {
+    width: 210px;
+    height: 64px;
+    /* left: calc(50% - 210px/2 - 553px); */
+    /* top: calc(50% - 64px/2 - 628.5px); */
+    background: #000000;
+    border-radius: 39px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 70px;
+    /* identical to box height, or 292% */
+    text-align: center;
+    color: #FFFFFF;
+}
+.box2 .img {
+    width: 792px;
+height: 679px;
+left: 652px;
+top: 1303px;
+
+background: #C4C4C4;
+border-radius: 10px 10px 0px 0px;
+}
+.box2 h6 {
+    font-weight: 400;
+font-size: 24px;
+line-height: 70px;
+/* identical to box height, or 292% */
+
+/* text-align: center; */
+
+color: #000000;
+
+}
+.box2 h2 {
+    font-weight: 500;
+font-size: 36px;
+line-height: 70px;
+/* identical to box height, or 194% */
+
+text-align: center;
+
+color: #000000;
+}
+.box2 p  {
+    font-weight: 300;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+
+color: #343434;
+
+}
